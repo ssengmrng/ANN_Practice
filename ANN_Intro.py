@@ -31,6 +31,6 @@ for epoch in range(20000):
     zo = np.dot(ah, wo)
     ao = sigmoid(zo)
 
-    a0 = "sagori"
+    a0 = "sag"
 
 # Gradient descent
