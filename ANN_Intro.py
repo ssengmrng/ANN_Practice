@@ -31,6 +31,6 @@ for epoch in range(20000):
     zo = np.dot(ah, wo)
     ao = sigmoid(zo)
 
-    a0 = "sagorika Kubi"
+    a0 = "sagorika sisilia Kubi"
 
 # Gradient descent
